@@ -1,6 +1,5 @@
-#page-wrap { 
-  position: absolute; 
-  left: 50%; 
-  width: 800px;
-  margin-left: -400px;
+#page-wrap {
+width: 800px;
+text-align: center;
+margin: 0 auto;
 }
